@@ -169,3 +169,7 @@ background: linear-gradient(90deg, rgba(6,184,0,1) 0%, rgba(6,184,0,1) 51%, rgba
 .navbar-inverse .navbar-brand{
         color: #fff; font-weight: bolder;
 }
+
+.nav>li>a {
+    padding: 10px 10px;
+}
